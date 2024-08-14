@@ -9,3 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: pyiron/actions/label-to-title@label-to-title
+      with:
+        token: ${{ github.token }}
