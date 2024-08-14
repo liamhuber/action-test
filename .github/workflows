@@ -1,4 +1,4 @@
-name: Label to Title
+name: Label to Title change
 
 on:
   pull_request:
